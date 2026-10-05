@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+class GFG {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        char ch = sc.next().charAt(0);
+
+        char lower = Character.toLowerCase(ch);
+        // code here
+        if(lower=='a' || lower=='e' || lower=='i' || lower=='o' || lower=='u')
+        {
+            System.out.print("true");
+        }
+        else {
+            System.out.print("false");
+        }
+    }
+}
