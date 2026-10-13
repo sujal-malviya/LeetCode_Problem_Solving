@@ -25,7 +25,7 @@ Explanation: The number is divisible by 2, Even number.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-05T12:44:14.713Z  
+**Submitted:** 2026-10-13T11:11:00.865Z  
 
 ```java
 class Solution {
