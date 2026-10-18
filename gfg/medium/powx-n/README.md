@@ -35,13 +35,13 @@ Either b is not zero or e > 0.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-18T15:32:35.660Z  
+**Submitted:** 2026-10-18T15:38:35.358Z  
 
 ```java
 class Solution {
     double power(double b, int e) {
         // code here
-        return Math.pow(b,e);
+       return Math.pow(b,e);
     }
 }
 ```
